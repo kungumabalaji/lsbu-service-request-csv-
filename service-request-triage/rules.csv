@@ -1,0 +1,10 @@
+rule_type,name,keywords
+category,Access & Permissions,access;permission;permissions;login;log-in;sign-in
+category,System Integration,connect;integrate;integration;synchronise;synchronize;sync
+category,Process Automation,automate;automated;automation;reminder;reminders;workflow
+category,Reporting & Analytics,dashboard;dashboards;report;reports;reporting;summary;analytics;metrics;statistics
+category,Content & Guidance,guide;guidance;template;templates;page;pages;publish;content
+review,External access - security review (IT Security),external;third party;third-party;guest
+review,Finance-related - finance approval (Finance),finance;financial;expenses;payment;payments;invoice;invoices;purchase order;procurement
+review,Personal or sensitive data - data protection check,personal data;student records;staff records;medical;health;disability;safeguarding;date of birth
+review,Credentials mentioned - security review (IT Security),password;passwords;credentials

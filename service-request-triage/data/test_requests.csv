@@ -1,0 +1,13 @@
+Request ID,Submitted Date,Requester Role,Request Type,Request Summary,Priority,Channel,Status
+REQ-101,09/10/2026,Lecturer,Reporting & Analytics,,Medium,Email,New
+REQ-102,09/10/2026,HR Adviser,Content & Guidance,Publish an updated staff wellbeing guide on the intranet.,Urgent,Teams,New
+REQ-103,31/02/2026,Finance Officer,System Integration,Connect the purchase order form to the procurement system.,High,Email,New
+REQ-103,10/10/2026,Programme Administrator,Process Automation,Automate weekly attendance reminders to personal tutors.,Low,Teams,New
+REQ104,10/10/2026,Library Assistant,Access & Permissions,Grant access to the shared library bookings calendar.,Low,Service Portal,New
+REQ-105,01/01/2099,Estates Coordinator,Content & Guidance,Create a page template for building closure notices.,Low,Email,New
+REQ-106,11/10/2026,Careers Adviser,Process Automation,Help needed with the careers fair booking process.,Medium,Email,New
+REQ-107,11/10/2026,Marketing Officer,Content & Guidance,Produce a monthly report of website visits for the marketing team.,Low,Teams,New
+REQ-108,12/10/2026,IT Support Analyst,Access & Permissions,=SUM(1+1) Grant access to the shared admissions mailbox.,Medium,Service Portal,New
+REQ-109,12/10/2026,Student Services Officer,Reporting & Analytics,  CREATE A DASHBOARD of open student enquiries  ,medium,email,Completed
+REQ-110,13/10/2026,Research Administrator,System Integration,Synchronise external partner records with the research database.,High,Service Portal,New
+REQ-111,13/10/2026,   ,Access & Permissions,Request permission to edit the timetable spreadsheet.,Low,Teams,New

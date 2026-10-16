@@ -1,0 +1,11 @@
+﻿Request ID,Submitted Date,Requester Role,Request Type,Request Summary,Priority,Channel,Status
+REQ-001,01/10/2026,Student Services Officer,Access & Permissions,Request access to the student enquiries dashboard for weekly reporting.,Medium,Service Portal,New
+REQ-002,01/10/2026,Programme Administrator,Process Automation,Automate the transfer of approved course changes from a form into a tracking list.,High,Email,In Review
+REQ-003,02/10/2026,Lecturer,Reporting & Analytics,Create a dashboard showing module engagement and outstanding interventions.,Medium,Teams,Assigned
+REQ-004,02/10/2026,Finance Officer,System Integration,Connect the expenses form to the finance approval workflow and archive approved records.,High,Service Portal,New
+REQ-005,03/10/2026,HR Adviser,Content & Guidance,Publish a searchable digital guide for staff onboarding tasks and key contacts.,Low,Email,Planned
+REQ-006,05/10/2026,Faculty Manager,Process Automation,Send automated reminders when mandatory review actions are overdue.,High,Teams,In Progress
+REQ-007,05/10/2026,Research Administrator,Access & Permissions,Set up controlled access for external collaborators to a project document library.,Medium,Service Portal,Assigned
+REQ-008,06/10/2026,Student Support Adviser,Reporting & Analytics,Produce a weekly summary of enquiry volumes by category and time band.,Medium,Email,New
+REQ-009,07/10/2026,Digital Project Manager,System Integration,Synchronise approved project milestones between the portfolio tracker and Teams.,High,Service Portal,In Review
+REQ-010,08/10/2026,Communications Officer,Content & Guidance,Create a reusable page template for service announcements and planned maintenance.,Low,Teams,Completed

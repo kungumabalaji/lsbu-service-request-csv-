@@ -1,0 +1,28 @@
+SERVICE REQUEST TRIAGE SUMMARY
+============================================================
+Total requests processed                   12
+Valid                                      5
+Invalid (data issues)                      7
+Need human review                          11
+Requests to review                         REQ-101, REQ-102, REQ-103, REQ-103, REQ104, REQ-105, REQ-106, REQ-107, REQ-108, REQ-110, REQ-111
+No manual triage needed                    1
+Acknowledgements drafted                   4
+Category: Access & Permissions             3
+Category: System Integration               2
+Category: Process Automation               1
+Category: Reporting & Analytics            2
+Category: Content & Guidance               2
+Category: Uncategorised                    2
+Priority: Low                              5
+Priority: Medium                           4
+Priority: High                             2
+Review reason: Data issues                 7
+Review reason: Access request              3
+Review reason: No category rule matched    2
+Review reason: High priority               2
+Review reason: Finance-related             1
+Review reason: Category unclear            1
+Review reason: Summary starts with a formula character 1
+Review reason: External access             1
+============================================================
+Report saved to output/test_output.xlsx

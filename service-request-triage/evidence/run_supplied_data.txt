@@ -1,0 +1,24 @@
+SERVICE REQUEST TRIAGE SUMMARY
+============================================================
+Total requests processed                   10
+Valid                                      10
+Invalid (data issues)                      0
+Need human review                          6
+Requests to review                         REQ-001, REQ-002, REQ-004, REQ-006, REQ-007, REQ-009
+No manual triage needed                    4
+Acknowledgements drafted                   9
+Category: Access & Permissions             2
+Category: System Integration               2
+Category: Process Automation               2
+Category: Reporting & Analytics            2
+Category: Content & Guidance               2
+Category: Uncategorised                    0
+Priority: Low                              2
+Priority: Medium                           4
+Priority: High                             4
+Review reason: High priority               4
+Review reason: Access request              2
+Review reason: Finance-related             1
+Review reason: External access             1
+============================================================
+Report saved to output/triage_output.xlsx
